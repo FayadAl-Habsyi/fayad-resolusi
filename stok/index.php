@@ -73,6 +73,9 @@ include '../includes/header.php';
                 </a>
             </div>
             <div class="card-body">
+                <div class="alert alert-info mb-4">
+                    <strong>Informasi:</strong> Halaman ini menampilkan daftar stok masuk produk. Anda dapat mencari berdasarkan nama produk, kode produk, atau keterangan. Gunakan filter tanggal untuk melihat stok masuk dalam rentang waktu tertentu.
+                </div>
                 <!-- Filters -->
                 <form action="" method="get" class="mb-4">
                     <div class="row g-3">
